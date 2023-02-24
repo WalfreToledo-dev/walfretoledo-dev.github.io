@@ -51,7 +51,7 @@ try {
 
 
     $mail->setFrom('correo.conacto.to.grow@hotmail.com', mb_encode_mimeheader($name, 'UTF-8'));
-    $mail->addAddress('lic.walf.toledo@gmail.com', 'Contacto ToGrow');
+    $mail->addAddress('contacto@togrow.com.mx', 'Contacto ToGrow');
 
     // Configura el contenido del correo electrónico
 
