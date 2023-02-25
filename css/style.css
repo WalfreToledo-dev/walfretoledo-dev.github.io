@@ -616,7 +616,7 @@ b i:last-child {
 .quienes-somos {
     background: linear-gradient(0deg, #ffffff 0%, #ffbf00 100%);
     width: 100%;
-    height: 100%;
+    height: auto;
     overflow: hidden;
     display: flex;
     position: relative;
@@ -626,7 +626,7 @@ b i:last-child {
 .mision-vision {
     background: linear-gradient(0deg, #ffffff 0%, #ffbf00 100%);
     width: 100%;
-    height: 100%;
+    height: auto;
     overflow: hidden;
     display: flex;
     position: relative;
