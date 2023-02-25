@@ -394,7 +394,7 @@ h8 {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin: .2em 0;
-    text-transform: capitalize;
+    /*text-transform: uppercase;*/
 }
 
 .box-primary-nav a {
