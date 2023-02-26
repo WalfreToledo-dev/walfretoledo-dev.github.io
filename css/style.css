@@ -1806,6 +1806,10 @@ input:checked + .slide-container .nav label { display: block; }
         padding: 100px 0;
 		text-align: center;
     }
+    ul.slides {
+    height: 18rem;
+    width: auto;
+    }
 }
 
 @media only screen and (max-width: 420px) {
